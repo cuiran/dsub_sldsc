@@ -1,0 +1,3 @@
+--env SUMSTAT	--env GSSS	--env REFLD	--env GSRLD	--env OUT
+UKB.RBC.BOLT.sumstats.gz	gs://regularized_sldsc/data/sumstats_formatted_rsid/	baselineLD.	gs://regularized_sldsc/data/annot_and_ldscore/EUR/baselineLD_v2.2/	UKB.RBC.BOLT_1000G_baselineLD2.2
+UKB.WHRadjBMI.BOLT.sumstats.gz	gs://regularized_sldsc/data/sumstats_formatted_rsid/	baselineLD.	gs://regularized_sldsc/data/annot_and_ldscore/EUR/baselineLD_v2.2/	UKB.WHRadjBMI.BOLT_1000G_baselineLD2.2

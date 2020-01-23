@@ -1,0 +1,4 @@
+--env SUMSTAT	--env GSSS	--env REFLD	--env GSRLD	--env OUT
+EUR.CD.gwas_info03_filtered.sumstats.gz	gs://regularized_sldsc/ABC/data/formatted_sumstats_rsid/	baselineLD.	gs://regularized_sldsc/data/annot_and_ldscore/EUR/baselineLD_v2.2/	EUR.CD.gwas_info03_filtered_1000G_baselineLD2.2
+EUR.IBD.gwas_info03_filtered.sumstats.gz	gs://regularized_sldsc/ABC/data/formatted_sumstats_rsid/	baselineLD.	gs://regularized_sldsc/data/annot_and_ldscore/EUR/baselineLD_v2.2/	EUR.IBD.gwas_info03_filtered_1000G_baselineLD2.2
+EUR.UC.gwas_info03_filtered.sumstats.gz	gs://regularized_sldsc/ABC/data/formatted_sumstats_rsid/	baselineLD.	gs://regularized_sldsc/data/annot_and_ldscore/EUR/baselineLD_v2.2/	EUR.UC.gwas_info03_filtered_1000G_baselineLD2.2

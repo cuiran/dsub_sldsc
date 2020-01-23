@@ -1,0 +1,4 @@
+--env SUMSTAT	--env OUT	--env NCASE	--env NCON
+/mnt/data/ss/EUR.CD.gwas_info03_filtered.assoc	/mnt/data/result/EUR.CD.gwas_info03_filtered	20550	41642
+/mnt/data/ss/EUR.IBD.gwas_info03_filtered.assoc	/mnt/data/result/EUR.IBD.gwas_info03_filtered	38115	48485
+/mnt/data/ss/EUR.UC.gwas_info03_filtered.assoc	/mnt/data/result/EUR.UC.gwas_info03_filtered	17647	47179
